@@ -254,6 +254,9 @@ a {
     .btn{
         display: none;
     }
+    .right-text a{
+        display: none;
+    }
 }
 
 @media (max-width: 767px) {
