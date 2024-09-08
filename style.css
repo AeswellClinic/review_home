@@ -251,7 +251,7 @@ a {
 }
 
 @media (min-width: 768px) {
-    .right-text {
+    .btn{
         display: none;
     }
 }
